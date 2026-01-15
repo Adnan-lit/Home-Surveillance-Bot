@@ -1,0 +1,43 @@
+# Telegram configuration (contains sensitive tokens)
+telegram_config.py
+tokens.txt
+
+# Face recognition data
+encodings.pickle
+*.pickle
+
+# Training datasets and unknown faces
+dataset/
+unknown_faces/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files (large binaries)
+*.pt
+models/*.pt
+
+# Images (can be regenerated)
+*.jpg
+*.jpeg
+*.png
