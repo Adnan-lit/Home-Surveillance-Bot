@@ -1,0 +1,2 @@
+cd ~/Desktop/surveillance_bot
+source venv/bin/activate
