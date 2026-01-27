@@ -1,0 +1,7 @@
+flask
+requests
+numpy
+opencv-python
+face_recognition
+picamera2
+pyserial
